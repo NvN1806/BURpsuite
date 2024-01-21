@@ -12,9 +12,6 @@ Prequisites
 
 - [BurpSuit Professional 1.7.37](https://portswigger.net/burp/releases/professional-1-7-37)
 
-#### Download Burp Loader files. Then Follow Below Steps for Activation:
-- [https://github.com/GTekSD/BurpSuit-launcher](https://github.com/GTekSD/BurpSuit-launcher)
-- [https://github.com/decrypt3r/Burp-Loader/](https://github.com/decrypt3r/Burp-Loader/)
 	
 #### Download and Install Java and JDK:
 
